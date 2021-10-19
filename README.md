@@ -1,4 +1,4 @@
-# Airplane Crashes Analyis
+# Airplane Crashes Analysis
 
 Exploratory data analysis of airplane crashes and fatalities from 1908 to 2009 with Jupyter Notebook.
 
